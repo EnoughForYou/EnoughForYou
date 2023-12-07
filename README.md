@@ -1,5 +1,3 @@
-### Hi welcome, I'm Naufal, and me like a coding.
-
 ## Information
 - 🔭 I’m currently working on my tools for github.
 - 👯 I’m looking to collaborate on open source
